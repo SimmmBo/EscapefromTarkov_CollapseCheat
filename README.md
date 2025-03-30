@@ -4,13 +4,13 @@
 <p>Supported processors: Intel, AMD</p>
 <p>Supported OS: Windows10, Windows 11(21h2, 22h2, 23h2, 24h2)</p>
 
-[ESP]
-- PLAYER
-- LOOT
-- QUEST
-- EXIT
-[AIM]
-[MISC]
-- PLAYER
-- WEAPON
-- OTHER
+<p>[ESP]</p>
+<p>- PLAYER</p>
+<p>- LOOT</p>
+<p>- QUEST</p>
+<p>- EXIT</p>
+<p>[AIM]</p>
+<p>[MISC]</p>
+<p>- PLAYER</p>
+<p>- WEAPON</p>
+<p>- OTHER</p>
